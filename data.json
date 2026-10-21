@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "fernandojose002@gmail.com",
+      "password": "$2b$10$r6yBF3nl0BvvACAKItOkB.4NhY9/ypckT0oMwe.1MLFZdoqCt9nh2",
+      "ownReferralCode": "REF-8E717D",
+      "referredBy": null,
+      "walletAddress": "",
+      "activeSubscriptions": [],
+      "role": "USER",
+      "createdAt": "20/10/2026"
+    },
+    {
+      "id": 2,
+      "email": "fernandoadmin@admin.com",
+      "password": "$2b$10$G9UVFbyhgw7XRj/9VE16DOeqgadn8LKKrGKvt0DycbTUFko8DKdpG",
+      "ownReferralCode": "REF-A68E8A",
+      "referredBy": null,
+      "walletAddress": "",
+      "activeSubscriptions": [],
+      "role": "ADMIN",
+      "createdAt": "20/10/2026"
+    }
+  ],
+  "payments": []
+}
